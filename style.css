@@ -1,0 +1,44 @@
+h1 {
+    font-size:30px;
+    color:rgb(14, 240, 229);
+    font-family: cursive;
+}
+
+
+
+.header{
+    background-color: rgb(246, 3, 52);
+    display:flex;
+    justify-content:space-between;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+p{
+    text-align:center;
+    color:beige;
+    font-size:30px;
+    font-family: cursive;
+
+}
+
+h2{
+    text-align:center;
+    color:black;
+    font-size:30px;
+    font-family: cursive;
+
+}
+
+.footer{ 
+    display:flex;
+    justify-content:flex-end;
+}
+
+body{
+    background-color:orange
+}
